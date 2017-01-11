@@ -1,2 +1,5 @@
 # hello-world
-This is my first repository
+
+Hi Human!
+
+Looking forward to upload some Python stuff here on github.
